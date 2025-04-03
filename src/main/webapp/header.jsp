@@ -18,7 +18,7 @@
                     <div class="logo-texts">
                         <span class="logo-title"> 약 팡 </span>
                         <span class="sublogo-title"> DrugBank </span>
-                    </div>
+                    </div> <!-- 로고 이미지 수정 및 최적화 -->
                 </div>    
             </a>
         </div>
